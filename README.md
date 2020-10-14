@@ -1,5 +1,19 @@
-# my-envs
-统计下我常用的工具/环境，以免忘了。
+# awesome
+
+My favored developer tools
+
+## Shell
+
+Zsh
+Manager: oh-my-zsh
+Plugins:
++ git
++ zsh-syntax-highlighting
++ zsh-autosuggestions
+
+
+autojump
+
 
 ## 工具
 
@@ -24,10 +38,4 @@
 
 ## 环境
 
-+ Node
-+ Jump
-+ ohmyzsh
-
-## MORE
-
-好吧，写完发现，前端也没什么很多要配的环境。
++ nvm
